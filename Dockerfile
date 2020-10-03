@@ -5,7 +5,7 @@
 # * http://www.serverbear.com
 # * https://github.com/Crowd9/Benchmark
 #
-FROM ubuntu:14.04
+FROM ubuntu:20.04
 
 MAINTAINER Kyle Manna <kyle@kylemanna.com>
 
